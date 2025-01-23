@@ -1,0 +1,9 @@
+ID: 43
+Numero de Serie: 678799
+Nome do Patrimonio: Cadeira
+Tipo: Movel
+Descricao: cadeira para mesa do computador
+Localizacao: sala 16
+Data de Fabricacao: 11/07/2020
+Data de Aquisicao: 11/08/2021
+-----------------------------------------------
